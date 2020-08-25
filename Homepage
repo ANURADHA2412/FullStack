@@ -1,0 +1,30 @@
+# FullStack
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#firstname {
+  background-color:none;
+}
+
+</style>
+
+</head>
+<body>
+
+<h1>Welcome to My Homepage</h1>
+<h2>
+    Welcome to My World...
+</h2>
+
+<div class="intro">
+  <p id="firstname">My name is Anuradha.</p>
+  <p id="hometown">I live in Morena.</p>
+</div>
+
+<p>My best friend is Ayushi.</p>
+
+</body>
+</html>
