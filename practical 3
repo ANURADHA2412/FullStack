@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Practical-03</title>
+ 
+ <style>
+ .red{
+  color: rgb(196, 5, 5);
+ }
+ .blue{
+  color: rgb(3, 3, 158);
+ }
+ </style>
+</head>
+<body>
+ <h2 style="color: red;">Practical-3: Create a web page showing a basic html structure using character Entities and span Tag.&nbsp;<a href="../home.html" role="button">Home</a></h2>
+
+ <h1>Output</h1>
+<span style="font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback';font-size: 20px;">&ThickSpace;&ThickSpace;<span>&lt;&excl;DOCTYPE <span class="red">html</span>&gt;</span>
+ <br>
+ 
+ <span>&ThickSpace;&ThickSpace;&lt;html <span class="red">lang</span>&equals;<span class="blue">&quot;en&quot;</span>&gt;</span>
+ <br>
+ <span>&ThickSpace;&ThickSpace;&lt;head&gt;</span>
+ <br>
+ <span>&ThickSpace;&ThickSpace;&ThickSpace;&ThickSpace;&ThickSpace;&lt;meta <span class="red">charset</span>&equals;<span class="blue">&quot;UTF-8&quot;&gt;</span></span>
+ <br>
+
+ <span>&ThickSpace;&ThickSpace;&ThickSpace;&ThickSpace;&ThickSpace;&lt;meta <span class="red">name</span>&equals;<span class="blue">&quot;viewport&quot; </span><span class="red">content</span>&equals;<span class="blue">&quot;width&equals;device&minus;width, initial&minus;scale&equals;1&period;0&quot;&gt;</span>
+ <br>
+ <span>
+  &ThickSpace;&ThickSpace;&ThickSpace;&ThickSpace;&ThickSpace;&lt;title&gt;Document&lt;&sol;title&gt;
+ </span>
+ <br>
+ <span>&ThickSpace;&ThickSpace;&lt;&sol;head&gt;</span>
+ <br>
+<span>&ThickSpace;&ThickSpace;&lt;body&gt;</span>
+ <br>
+ <span style="color: cornflowerblue;">&ThickSpace;&ThickSpace;&lt;&excl;&minus;&minus; this is html comment &minus;&minus;&gt;</span>
+ <br>
+ <span>&ThickSpace;&ThickSpace;Write your content here&period;&period;&period;&period;&period;&period;</span>
+ <br>
+ <span>&ThickSpace;&ThickSpace;&lt;&sol;body&gt;</span>
+ <br>
+<span>&ThickSpace;&ThickSpace;&lt;&sol;html&gt;</span>
+</span>
+
+
+</body>
+</html>
