@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Document</title>
+ <style>
+  body{
+   border: 20px solid rgb(150, 148, 148);
+   margin: auto;
+   margin-top: 20px;
+   width: 70%;
+   max-width: 70%;
+  }
+  hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+ </style>
+</head>
+
+<body>
+ <Blockquote>
+  <h1>
+   Welcome! <span id="display">To My Web Page</span>
+  </h1>
+  <hr>
+  <h2 style="text-decoration: underline;">
+   About Me
+  </h2>
+  I am Anuradha Bansal, B-Tech(CSE) student, currently learning Fullstack course . With the help of this web page i am trying to practice on some of the topics that are covered.  
+ </Blockquote>
+</body>
+</html>
